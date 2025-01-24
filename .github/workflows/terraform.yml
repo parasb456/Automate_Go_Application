@@ -45,7 +45,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: eks
+        working-directory: EKS-Terraform-GitHub-Actions/eks
 
     env:
       AWS_REGION: ap-northeast-3
